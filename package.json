@@ -1,7 +1,8 @@
 {
   "name": "react-test-must-know",
   "version": "0.2.0",
-  "description": "Example project with React + Enzyme + Jest",
+  "description": "It is a example of using module enzyme to test react component, with render, state, props Edit
+Add topics",
   "keywords": [
     "react",
     "enzyme",
@@ -14,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vjwilson/enzyme-example-jest.git"
+    "url": "git+https://github.com/wahengchang/react-test-must-know"
   },
   "author": "Leland Richardson <leland.richardson@airbnb.com>",
   "contributors": [
