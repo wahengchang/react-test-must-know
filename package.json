@@ -1,5 +1,5 @@
 {
-  "name": "enzyme-example-jest",
+  "name": "react-test-must-know",
   "version": "0.2.0",
   "description": "Example project with React + Enzyme + Jest",
   "keywords": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vjwilson/enzyme-example-jest"
+    "url": "git+https://github.com/vjwilson/enzyme-example-jest.git"
   },
   "author": "Leland Richardson <leland.richardson@airbnb.com>",
   "contributors": [
