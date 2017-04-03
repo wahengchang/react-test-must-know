@@ -1,8 +1,7 @@
 {
   "name": "react-test-must-know",
   "version": "0.2.0",
-  "description": "It is a example of using module enzyme to test react component, with render, state, props Edit
-Add topics",
+  "description": "It is a example of using module enzyme to test react component, with render, state, props Edit Add topics",
   "keywords": [
     "react",
     "enzyme",
